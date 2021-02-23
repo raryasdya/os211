@@ -1,0 +1,4 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+ZCZC WEEK0 80 L02 1st day of weekly sync session
