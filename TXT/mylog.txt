@@ -48,3 +48,4 @@ ZCZC W01  70 L13 SSH, basics of vi, CLI
 ZCZC W01  20 L14 Create .bash_aliases
 ZCZC W01  15 L15 Setup Git & Github Repository
 ZCZC W01  15 L16 Update mylog.txt & create new alias
+ZCZC W01  10 L08 Fix .bash_aliases
