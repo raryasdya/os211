@@ -1,6 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-
 # LogCode + Description List
 # L00 General Log
 # L01 SCELE related
@@ -31,14 +30,12 @@
 # L21 VirtualBox: install GNU/Linux, etc.
 # L22 YouTube: study, etc.
 # L99 Other (...)
-
 ZCZC W00  80 L02 Weekly sync session
 ZCZC W00  15 L03 Create OS211 repository and its page
 ZCZC W00   5 L01 Pop Quiz 1
 ZCZC W00  10 L01 Pop Quiz 3
 ZCZC W00  15 L01 Pop Quiz 4
 ZCZC W00   1 L01 Pop Quiz 5
-
 ZCZC W01 100 L02 Weekly sync session
 ZCZC W01  60 L01 Pop Quiz 1, 2, 3
 ZCZC W01 150 L11 Install Debian
@@ -51,3 +48,13 @@ ZCZC W01  15 L16 Update mylog.txt & create new alias
 ZCZC W01  10 L08 Fix .bash_aliases
 ZCZC W01 120 L17 Browsing top 10 interesting links
 ZCZC W01  30 L10 Set the URL routing
+ZCZC W02  70 L02 Weekly sync session
+ZCZC W02  30 L01 Pop Quiz Scele
+ZCZC W02  50 L10 Generate PublicKey
+ZCZC W02  70 L12 Try half of Week02's Demos
+ZCZC W02 120 L22 Computer Security
+ZCZC W02  20 L16 Review 10 closest neighbors
+ZCZC W02  10 L18 Create bash script
+ZCZC W02  80 L12 Try the rest of Week02's Demos
+ZCZC W02 200 L10 Read and watch many resources about security
+ZCZC W0a  20 L20 Make SHA256SUM
