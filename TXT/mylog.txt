@@ -59,3 +59,4 @@ ZCZC W02  80 L12 Try the rest of Week02's Demos
 ZCZC W02 200 L10 Read and watch many resources about security
 ZCZC W02  20 L20 Make SHA256SUM
 ZCZC W02  30 L01 Pop Quiz Discord
+ZCZC W02  20 L99 Troubleshoot Top 10 problems
