@@ -57,4 +57,5 @@ ZCZC W02  20 L16 Review 10 closest neighbors
 ZCZC W02  10 L18 Create bash script
 ZCZC W02  80 L12 Try the rest of Week02's Demos
 ZCZC W02 200 L10 Read and watch many resources about security
-ZCZC W0a  20 L20 Make SHA256SUM
+ZCZC W02  20 L20 Make SHA256SUM
+ZCZC W02  30 L01 Pop Quiz Discord
