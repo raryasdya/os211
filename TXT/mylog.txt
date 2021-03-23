@@ -72,3 +72,6 @@ ZCZC W03  50 L22 Youtube about file system
 ZCZC W03  20 L14 Review 10 closest neighbors
 ZCZC W03  60 L15 Browsing Top 10 Interesting Links
 ZCZC W03 150 L15 Completed Top 10 Interesting Links
+ZCZC W03  30 L09 Asdos related
+ZCZC W03  40 L01 Pop Quiz Discord
+ZCZC W04  30 L01 Pop Quiz Scele
