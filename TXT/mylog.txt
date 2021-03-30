@@ -75,3 +75,12 @@ ZCZC W03 150 L15 Completed Top 10 Interesting Links
 ZCZC W03  30 L09 Asdos related
 ZCZC W03  40 L01 Pop Quiz Discord
 ZCZC W04  30 L01 Pop Quiz Scele
+ZCZC W04  80 L02 Weekly sync session
+ZCZC W04 120 L22 Study from Youtube
+ZCZC W04  40 L01 Pop Quiz Discord
+ZCZC W04  90 L08 Trying to login to os211.vlsm.org
+ZCZC W04  90 L10 Weekly checklist
+ZCZC W04  20 L10 Update myrank.txt
+ZCZC W04 180 L14 Complete Week04's top 10 link
+ZCZC W04  10 L09 Seek help to asdos
+ZCZC W04  20 L08 Fix corrupt repo
