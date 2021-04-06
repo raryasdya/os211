@@ -84,3 +84,9 @@ ZCZC W04  20 L10 Update myrank.txt
 ZCZC W04 180 L14 Complete Week04's top 10 link
 ZCZC W04  10 L09 Seek help to asdos
 ZCZC W04  20 L08 Fix corrupt repo
+ZCZC W05 110 L02 Weekly sync session
+ZCZC W05 180 L22 Study from youtube
+ZCZC W05 120 L10 Do weekly check list
+ZCZC W05  20 L12 Update myrank.txt
+ZCZC W05  50 L10 Try week05 demo
+ZCZC W05 180 L13 Completed top 10 interesting links
