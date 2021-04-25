@@ -90,3 +90,10 @@ ZCZC W05 120 L10 Do weekly check list
 ZCZC W05  20 L12 Update myrank.txt
 ZCZC W05  50 L10 Try week05 demo
 ZCZC W05 180 L13 Completed top 10 interesting links
+ZCZC W06  50 L01 Pop Quiz
+ZCZC W06  50 L01 Pop Quiz
+ZCZC W06  20 L12 Update myrank.txt
+ZCZC W06  60 L10 Do Week06's check list
+ZCZC W06  90 L26 Relax
+ZCZC W06 180 L99 Babysit
+ZCZC W06 180 L12 Completed top 10 interesting links
