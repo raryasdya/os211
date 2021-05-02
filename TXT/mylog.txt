@@ -97,3 +97,10 @@ ZCZC W06  60 L10 Do Week06's check list
 ZCZC W06  90 L26 Relax
 ZCZC W06 180 L99 Babysit
 ZCZC W06 180 L12 Completed top 10 interesting links
+ZCZC W07 110 L22 Weekly sync session
+ZCZC W07  50 L01 Pop Quiz Scele
+ZCZC W07  60 L99 Discuss about ssh
+ZCZC W07 180 L10 Do weekly checklist
+ZCZC W07  20 L12 Update myrank.txt
+ZCZC W07  90 L22 Study from Youtube
+ZCZC W07 180 L13 Completed top 10
